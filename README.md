@@ -44,7 +44,3 @@ streamlit run app.py
 - [`app.py`](app.py): Main Streamlit dashboard.
 - [`winequality-red.csv`](winequality-red.csv): Dataset.
 - [`requirements.txt`](requirements.txt): Python dependencies.
-
-## License
-
-This project is for
